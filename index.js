@@ -3,8 +3,8 @@
  * Module dependencies.
  */
 
-var max = require('max')
-  , min = require('min');
+var max = require('component-max')
+  , min = require('component-min');
 
 /**
  * Expose `Sparkline`.

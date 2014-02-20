@@ -1,0 +1,17 @@
+{
+  "name": "component-sparkline",
+  "description": "Tiny spark line graphs",
+  "version": "0.0.3",
+  "keywords": [
+    "spark",
+    "graph",
+    "line",
+    "chart",
+    "canvas"
+  ],
+  "dependencies": {
+    "component-max": "git://github.com/npmcomponent/component-max.git",
+    "component-min": "git://github.com/npmcomponent/component-min.git"
+  },
+  "license": "MIT"
+}
